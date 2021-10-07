@@ -1,5 +1,4 @@
 // imports
-import "bootstrap/dist/css/bootstrap.min.css";
 import "./main.css";
 
 import Data from "./utils/data";
